@@ -1,3 +1,3 @@
 # dark mode
 
-[Visite o projeto] (https://jonatasslc.github.io/darkmode/)
+[Visite o projeto](https://jonatasslc.github.io/darkmode/)
